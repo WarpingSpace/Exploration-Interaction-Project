@@ -1,0 +1,62 @@
+List of Resources:
+
+https://vnbp.itch.io/low-poly-3d-office-set-2-vnb
+
+https://loafbrr.itch.io/wood-furnitures
+
+https://gataki.itch.io/modularwooden
+
+https://assetstore.unity.com/packages/3d/environments/ultimate-nature-lite-176906
+
+https://kenney.nl/assets/food-kit
+
+https://styloo.itch.io/animals
+
+https://assetstore.unity.com/packages/3d/props/exterior/simple-blocky-dog-houses-bowls-and-pools-pack-123173
+
+https://assetstore.unity.com/packages/3d/props/low-poly-objects-pack-241890
+
+https://assetstore.unity.com/packages/3d/characters/humanoids/low-poly-character-pack-357288
+
+https://icemaan.itch.io/free-car-low-poly
+
+----------------------------------------------------------------
+
+
+    The projects design prominently embodies the themes of exploration and interaction through its large size and inclusion of hidden elements the player must discover.(Food)
+
+
+    There should be a range of objects that are interactable through the interaction toolkit. 
+
+
+    Including at least 5 objects and at least 2 sockets. 
+    Objects:( 2 Treats, 2 Toys, a Dog) Sockets:(On a Plate, and Chair)
+
+    Interactions should be well configured and adapted to the objects.
+    Within your project should be at least 2 interconnected areas.
+
+
+Something More
+
+    Programming Ai
+
+
+
+
+
+Project Report Requirements:
+
+
+In the readme of the GitHub: 
+
+    What's your project all about?
+    What was the additional skill you worked on?
+    Include a screenshot that clearly shows what you worked on.
+    What was a key challenge you overcame or an element of the project you're particularly proud of/want to highlight.
+    Screenshots of your project
+
+ 
+
+Documentation Requirements:
+
+The readme should contain a list of all assets used in your project.
