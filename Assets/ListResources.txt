@@ -31,7 +31,7 @@ In the readme of the GitHub:
 My project is about a foster home for animals.
 
     What was the additional skill you worked on?
-Do a theme music song relaxing for the scene room foster animal idle sounds.
+Doing a calming environmental music track.
 
     Include a screenshot that clearly shows what you worked on.
 
