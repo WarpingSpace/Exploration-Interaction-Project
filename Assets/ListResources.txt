@@ -30,8 +30,8 @@ In the readme of the GitHub:
     What's your project all about? 
 My project is about a foster home for animals.
 
-    What was the additional skill you worked on? 
-Unity was the additional skill I worked on as I learn some things as I added ai navigation tools into my scene and the dog too.
+    What was the additional skill you worked on?
+Do a theme music song relaxing for the scene room foster animal idle sounds.
 
     Include a screenshot that clearly shows what you worked on.
 
@@ -41,7 +41,3 @@ I am proud of how beautiful the scene looks, I positioned each object in a suita
     Screenshots of your project
 
  
-
-Documentation Requirements:
-
-The readme should contain a list of all assets used in your project.
