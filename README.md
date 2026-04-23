@@ -1,5 +1,5 @@
 What's your project all about? 
-My project is about a foster home for animals.
+My project is about a comfortable house setting.
 
 What was the additional skill you worked on?
 I did an environmental music track.
